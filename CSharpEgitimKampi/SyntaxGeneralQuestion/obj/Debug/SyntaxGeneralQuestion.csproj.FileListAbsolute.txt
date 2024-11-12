@@ -1,0 +1,7 @@
+C:\C#\CSharpEgitimKampi\SyntaxGeneralQuestion\bin\Debug\SyntaxGeneralQuestion.exe.config
+C:\C#\CSharpEgitimKampi\SyntaxGeneralQuestion\bin\Debug\SyntaxGeneralQuestion.exe
+C:\C#\CSharpEgitimKampi\SyntaxGeneralQuestion\bin\Debug\SyntaxGeneralQuestion.pdb
+C:\C#\CSharpEgitimKampi\SyntaxGeneralQuestion\obj\Debug\SyntaxGeneralQuestion.csproj.AssemblyReference.cache
+C:\C#\CSharpEgitimKampi\SyntaxGeneralQuestion\obj\Debug\SyntaxGeneralQuestion.csproj.CoreCompileInputs.cache
+C:\C#\CSharpEgitimKampi\SyntaxGeneralQuestion\obj\Debug\SyntaxGeneralQuestion.exe
+C:\C#\CSharpEgitimKampi\SyntaxGeneralQuestion\obj\Debug\SyntaxGeneralQuestion.pdb

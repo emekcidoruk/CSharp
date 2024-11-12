@@ -1,0 +1,7 @@
+C:\C#\CSharpEgitimKampi\05_LoopsWthStars\bin\Debug\05_LoopsWthStars.exe.config
+C:\C#\CSharpEgitimKampi\05_LoopsWthStars\bin\Debug\05_LoopsWthStars.exe
+C:\C#\CSharpEgitimKampi\05_LoopsWthStars\bin\Debug\05_LoopsWthStars.pdb
+C:\C#\CSharpEgitimKampi\05_LoopsWthStars\obj\Debug\05_LoopsWthStars.csproj.AssemblyReference.cache
+C:\C#\CSharpEgitimKampi\05_LoopsWthStars\obj\Debug\05_LoopsWthStars.csproj.CoreCompileInputs.cache
+C:\C#\CSharpEgitimKampi\05_LoopsWthStars\obj\Debug\05_LoopsWthStars.exe
+C:\C#\CSharpEgitimKampi\05_LoopsWthStars\obj\Debug\05_LoopsWthStars.pdb
