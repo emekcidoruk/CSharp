@@ -66,8 +66,6 @@ namespace SyntaxGeneralQuestion
                 Console.WriteLine("-----------------------------------------------------");
             }
 
-            //Öğrencilerin ortalamsı ve geçip/kalma durumları
-
             #endregion
 
             Console.Read();
